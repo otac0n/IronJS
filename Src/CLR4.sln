@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "IronJS", "IronJS\IronJS.fsproj", "{9E257324-94E7-49AF-AE83-718288E925D8}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "REPL", "Tools\REPL\REPL.fsproj", "{0F78334F-EA74-4C5C-8232-B7D329BE2226}"
